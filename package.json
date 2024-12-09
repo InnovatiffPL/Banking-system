@@ -1,0 +1,20 @@
+{
+  "name": "banking-system",
+  "version": "1.0.0",
+  "description": "If you are reading this, chances are that you found me through my website and came across different projects that I am working on. One of them is my GitHub repository where I will attempt to learn and develop a simple payment system with some characteristics of a banking account. Although I am not really technical yet, I want to show people that if you put enough effort and mind into something, you can learn new skills regardless of your professional background or if you feel awkward with words or technology. In my professional experience, I familiarised myself with data protection concepts in conjunction with its frameworks in context of various payment systems. Back then I picked up on coding. Today, as an IT guy with limited programming skills, I am more comfortable with programming as a whole and this idea came to my mind when I worked in auditing firms in scope of Payment Card Industry Data Security Standards (PCI DSS). Today, I put thoughts into action. I will be creating a system from scratch, where I will include developing user interface, database, the logic of it, and an API to make it all functional. Below you will find a list of stages for this project in a hierarchical order.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
